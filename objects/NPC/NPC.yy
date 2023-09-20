@@ -9,7 +9,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Objects",
-    "path": "folders/Rooms/Objects.yy",
+    "path": "folders/Animation Curves/Objects.yy",
   },
   "parentObjectId": null,
   "persistent": false,
